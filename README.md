@@ -50,8 +50,8 @@
 
 
 
-### Name:
-### Register Number:
+### Name:ROSHINI
+### Register Number:23011660
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
