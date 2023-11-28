@@ -39,11 +39,16 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/roshinithangachamy/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/140d8a35-525e-4e5d-a3ef-fe6b1df08b7c)
+![image](https://github.com/roshinithangachamy/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/fffd574f-4c87-4b3b-8693-85d77b5b90f6)
+![image](https://github.com/roshinithangachamy/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/58fc69fe-bd6c-4b96-a123-c72e29773e89)
+![image](https://github.com/roshinithangachamy/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/37d20d6f-f43e-4037-92f3-165bdd9f6746)
+![image](https://github.com/roshinithangachamy/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/4d357ccb-0283-4cbd-a545-aa0b8c83ba66)
+![image](https://github.com/roshinithangachamy/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147118341/799cbe35-e45d-47de-8c3d-15a7fd6d781b)
+
+
 
 ### Name:
 ### Register Number:
