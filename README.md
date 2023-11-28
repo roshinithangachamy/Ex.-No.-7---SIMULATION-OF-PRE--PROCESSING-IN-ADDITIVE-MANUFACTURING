@@ -39,14 +39,18 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/a812039e-fcf2-4f9f-a3e7-6a881c42ab77)
-![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/1604dfde-ba03-4392-99a2-7c34b9415c37)
-![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/cc3ee9a4-cc7a-4f2f-b5c0-ad29d7f6807f)
-![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/54556aea-46d5-47a6-bca5-7dcbb9f939f4)
+![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/64130c73-4ff3-409c-9a3c-251f37734cfc)
+![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/73ef9df7-8cd4-4632-9ecd-0f03f3c61070)
+![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/21eaeb84-58cf-4f40-8fe5-f767bfd452a7)
+![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/96ac2911-6c41-435c-b76c-d883460aa65e)
+![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/cedb1df6-c139-48af-84e8-2ad45d43612b)
+![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/53578e2b-d532-40d1-b020-32b44deca384)
 
 
 
-## Output:
+
+
+
 
 ### Name:
 ### Register Number:
