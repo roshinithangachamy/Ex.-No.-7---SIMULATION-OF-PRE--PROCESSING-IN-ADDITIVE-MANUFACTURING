@@ -46,8 +46,6 @@
 ![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/0dbd8a0b-c641-429e-be08-4e408af1af45)
 ![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/99cd303c-7936-477b-8a87-37837f9d23eb)
 ![image](https://github.com/PreethiS647/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147313372/5d69ece9-e897-4988-b988-34ecd184e837)
-NAME:PREETHI S
-REFERENCE NO:23008250
 
 
 
@@ -58,8 +56,9 @@ REFERENCE NO:23008250
 
 
 
-### Name:
-### Register Number:
+
+### Name:PREETHI S
+### Register Number:23008250
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
