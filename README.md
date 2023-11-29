@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 28-11-2023
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -50,7 +50,7 @@
 
 
 
-### Name:ROSHINI
+### Name:ROSHINI T
 ### Register Number:23011660
 
 ## Result: 
